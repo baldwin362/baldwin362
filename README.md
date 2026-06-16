@@ -25,10 +25,10 @@ You can also get the full overview on my website: **[edwardbauduin.com](https://
 
 ## Education
 
-- **École Nationale des Ponts et Chaussées** — Engineering Degree _(Diplôme d'Ingénieur)_
+- **École Nationale des Ponts et Chaussées** : Engineering Degree _(Diplôme d'Ingénieur)_
   Specialization in **Computer Science & Applied Mathematics**.
-- **Lycée Montaigne** — Preparatory Classes _(CPGE)_
-  **Mathematics · Physics · Engineering** — preparing for the competitive entrance exams to the top engineering schools.
+- **Lycée Montaigne** : Preparatory Classes _(CPGE)_
+  **Mathematics · Physics · Engineering** : preparing for the competitive entrance exams to the top engineering schools.
 
 ---
 
@@ -76,7 +76,7 @@ AI that builds construction schedules in minutes, not weeks. Proprietary MCPs le
 ![Railway](https://img.shields.io/badge/Railway-6D28FF?style=flat-square&logo=railway&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-6D28FF?style=flat-square&logo=render&logoColor=white)
 
-**Cybersecurity** — a security-first mindset baked into every layer of the stack.
+**Cybersecurity**:  a security-first mindset baked into every layer of the stack.
 
 ### Machine & Deep Learning
 
