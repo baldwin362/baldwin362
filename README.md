@@ -34,11 +34,11 @@ You can also get the full overview on my website: **[edwardbauduin.com](https://
 
 ## Ventures
 
-### [MyQuantPartner](https://myquantpartner.com) — `myquantpartner.com`
+### [MyQuantPartner](https://myquantpartner.com) : `myquantpartner.com`
 
 Military-grade training for quant interviews. Candidates run real mock interviews built from the problems asked at **Citadel, Jane Street, Optiver and Flow Traders**, backed by a huge bank of practice: brain teasers, probability puzzles, options & derivatives, and coding (from basic LeetCode to real software design). Every session surfaces your weaknesses and turns messy preparation into a structured plan.
 
-### [Prokuris.](https://prokuris.ai) — `prokuris.ai`
+### [Prokuris.](https://prokuris.ai) : `prokuris.ai`
 
 AI that builds construction schedules in minutes, not weeks. Proprietary MCPs let our AI actually analyse **BIM** models. From a company's historical data, its BIMs and BOQs, and user-defined constraints, Prokuris solves the scheduling optimization and generates work and procurement schedules from scratch in minutes — work that normally takes weeks and ships with hundreds of errors.
 
